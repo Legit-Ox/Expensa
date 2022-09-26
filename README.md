@@ -1,6 +1,12 @@
-# expensa
+Expensa
 
 A new Flutter project.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/95538177/192186512-a9cba4e0-f220-4adf-81fb-d649fa54d076.png" height="500">
+<img src="https://user-images.githubusercontent.com/95538177/192186594-56877c0a-1c2c-48b5-891d-c046955bafa6.png" height="500">
+<img src="https://user-images.githubusercontent.com/95538177/192186662-0ae0cad7-b5d7-443f-97cf-efef06a8a068.png" height="500">
+</div>
+
 
 ## Getting Started
 
